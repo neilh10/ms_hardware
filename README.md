@@ -1,2 +1,2 @@
-# ms_hardware
-Modular Sensors related Hardware
+# Hardware Boards
+Hardware Designs, BOMS (Bill of Materials) for Modular Sensors projects
