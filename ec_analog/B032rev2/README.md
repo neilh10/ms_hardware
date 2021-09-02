@@ -14,6 +14,7 @@ Use
 
 B032_r2 silkTop_200619.pdf  for parts placement    
 
-See detailed schematic (components are annotated)   https://github.com/neilh10/hw_mayfly/blob/main/ec_interface/B032rev2/B032r2%20schematic_200619.pdf   
+See detailed schematic (components are annotated)    
+https://github.com/neilh10/ms_hardware/blob/master/ec_analog/B032rev2/B032r2%20schematic_200619.pdf   
 See basic schematic    
-https://github.com/neilh10/hw_mayfly/blob/main/ec_interface/B032rev2/B032r2%20schematic_200619.jpg    
+https://github.com/neilh10/ms_hardware/blob/master/ec_analog/B032rev2/B032r2%20schematic_200619.jpg
