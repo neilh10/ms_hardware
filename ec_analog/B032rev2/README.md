@@ -2,7 +2,7 @@
 Electrical Conductivity interface boards for a) EnviroDIY Mayfly board, and as hardware option b) standalone over Seeed 4pin 2pin connection
 
 Board https://oshpark.com/shared_projects/WSMDBFEB    
-The board, developed by me, has an internal designator of B032rev2. It was developed with EasyPc v20.0, design files are not published as propietary non-standard tool, and too dificult to seperate out all parts to make a meaningfull open source distribution    
+The board, developed by me, has an internal designator of B032rev2. It was developed with EasyPc v20.0, design files are not published, as EasyPC is a propietary non-standard tool, and too dificult to seperate out all parts to make a meaningfull open source distribution    
 
 The parts are specified in B032_r2 (Bill of MaterialsAzAA)200619_1056.xlsx - one page is a Digikey sheet.    
 To send to Digikey, in sheet  [overview ]set the BldQty.     
